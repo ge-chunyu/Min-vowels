@@ -1,0 +1,45 @@
+|C(G)V|C(G)Vn |C(G)Vm |C(G)Vŋ    |C(G)Vʔ |C(G)Ṽ  |C(G)Ṽʔ   |variety|
+|:----|:------|:------|:---------|:------|:------|:--------|:------|
+|i    |in/it  |im/ip  |iŋ/ik     |iʔ     |ĩ      |ĩʔ       |Xiamen |
+|e    |       |       |          |eʔ     |ẽ      |ẽʔ       |Xiamen |
+|a    |an/at  |am/ap  |aŋ/ak     |aʔ     |ã      |ãʔ       |Xiamen |
+|ɔ    |       |       |ɔŋ/ɔk     |ɔʔ     |ɔ̃      |ɔ̃ʔ       |Xiamen |
+|o    |       |       |          |oʔ     |       |         |Xiamen |
+|u    |un/ut  |       |          |uʔ     |       |         |Xiamen |
+|ia   |ian/iat|iam/iap|iaŋ/iak   |iaʔ    |iã     |iãʔ      |Xiamen |
+|io   |       |       |iɔŋ/iɔk   |ioʔ    |iõ     |         |Xiamen |
+|iu   |       |       |          |iuʔ    |iũ     |         |Xiamen |
+|ua   |uan/uat|       |uaŋ       |uaʔ    |ũa     |         |Xiamen |
+|ue   |       |       |          |ueʔ    |ũe     |ũeʔ      |Xiamen |
+|ui   |       |       |          |uiʔ    |ũi     |ũiʔ      |Xiamen |
+|ai   |       |       |          |aiʔ    |ãĩ     |ãĩʔ      |Xiamen |
+|au   |       |       |          |auʔ    |ãu     |ãuʔ      |Xiamen |
+|iau  |       |       |          |iauʔ   |iãu    |iõuʔ     |Xiamen |
+|uai  |       |       |          |uaiʔ   |ũai    |ũaiʔ     |Xiamen |
+|m    |       |       |          |       |       |         |Xiamen |
+|ŋ    |       |       |          |       |       |         |Xiamen |
+|i    |in     |       |iŋ        |       |       |ĩ        |Cangnan|
+|e    |       |       |          |       |       |         |Cangnan|
+|ə    |       |       |əŋ        |       |       |ə̃        |Cangnan|
+|ɐ    |       |       |          |       |       |         |Cangnan|
+|a    |an     |       |aŋ        |       |       |ã        |Cangnan|
+|ɔ    |       |       |ɔŋ        |       |       |ɔ̃        |Cangnan|
+|o    |       |       |          |       |       |         |Cangnan|
+|u    |un     |       |          |       |       |ũ        |Cangnan|
+|ɯ    |       |       |          |       |       |         |Cangnan|
+|ie   |       |       |          |       |       |         |Cangnan|
+|ia   |ian    |       |iaŋ       |       |       |ĩã       |Cangnan|
+|iɔ   |       |       |iɔŋ       |       |       |         |Cangnan|
+|iu   |       |       |          |       |       |ĩũ       |Cangnan|
+|ue   |       |       |          |       |       |         |Cangnan|
+|uɐ   |       |       |          |       |       |         |Cangnan|
+|ua   |uan    |       |uaŋ       |       |       |ũã       |Cangnan|
+|ui   |       |       |          |       |       |ũĩ       |Cangnan|
+|əu   |       |       |          |       |       |ə̃ũ       |Cangnan|
+|ai   |       |       |          |       |       |ãĩ       |Cangnan|
+|au   |       |       |          |       |       |         |Cangnan|
+|ieu  |       |       |          |       |       |         |Cangnan|
+|uai  |       |       |          |       |       |         |Cangnan|
+|iau  |       |       |          |       |       |ĩãũ      |Cangnan|
+|m    |       |       |          |       |       |         |Cangnan|
+|ŋ    |       |       |          |       |       |         |Cangnan|
