@@ -7,13 +7,13 @@ author: Chunyu Ge, Fang Hu
 
 # Introduction
 
-A perennial debate in segmental phonology is whether diphthongs should be treated as composing two static units or one single dynamic unit. This study will investigate monophthongs and diphthongs in two closely related Southern Min Chinese dialects, Xiamen and Cangnan, attempting to contribute to the understanding of the cross-linguistic diversities of the phonological systems and phonetic implementation. The next section gives a brief review of cross-linguistic study of vowels and diphthongs.Section 1.2 briefly reviews the debate of characterising diphthongs as two static targets vs. one dynamic target. The introduction section ends with an overview of the two subject dialects in the present study, with a particular emphasis on the vowel system.
+A perennial debate in segmental phonology is whether diphthongs should be treated as composing two static units or one single dynamic unit. This study will investigate monophthongs and diphthongs in two closely related Southern Min Chinese dialects, Xiamen and Cangnan, attempting to contribute to the understanding of the cross-linguistic diversities of the phonological systems and phonetic implementation. The next section gives a brief review of cross-linguistic study of vowels and diphthongs. Section 1.2 briefly reviews the debate of characterising diphthongs as two static targets vs. one dynamic target. The introduction section ends with an overview of the two subject dialects in the present study, with a particular emphasis on the vowel system.
 
 ## Cross-linguistic studies of vowel
 
 The cross-linguistic studies of vowel centres almost exclusively on monophthongs. Maddieson (1984) summarized several cross-linguistic tendencies of vowel systems based on the UPSID database. The cardinal vowels are the most frequently observed vowels cross-linguistically, and the most common vowel system is a five-vowel system. As for diphthongs, /ei ai au ou ui io/ are the most common diphthongs across languages. Another stream of research is the explanation and prediction of the possible vowel systems attested in human languages (see the review in Vaux and Samuels 2015). The most prominent theory is dispersion theory. One of the most fundamental principles of dispersion theory is that vowel contrasts should be easy enough to be distinguished, either via maximum contrast (Liljencrants and Lindblom 1972) or sufficient contrast (Lindblom 1986). Despite some further revision, dispersion theory still has some drawbacks that it cannot fully predict the possible vowel systems (Vaux and Samuels 2015).
 
-One of the limitations in the studies and explanations on the previous studies is that usually only monophthongs are included in the inventory, disregarding diphthongs. There are a few cross-language studies of diphthongs. Lindau, Norlin and Svantesson (1990) compared the diphthongs /ai au/ in Arabic, Hausa, Chinese and English, and they found that the transciptionally equivalent diphthongs can have different timing of the diphthongal transitions in different languages. Mayr and Davies (2011) demonstrated that there are differences in the spectral dynamics of diphthongs even between closely related dialects (Northern and Southern Welsh). There is also a study which aims to incorporate diphthong into dispersion theory (Peterson 2015) base solely on English. These studies are sporadic and has not constitute a synergy in unveiling the nature of diphthong. On the other hand, since Hu (2013), he and colleagues investigated monophthongs and diphthongs extensively in Chinese dialects (see the review in Hu 2023 and references therein). An emerging typological trend is that rising diphthongs are more likely to have two targets, while falling diphthongs tend to be more dynamic with only one single unit. The present study will approach two varieties of Southern Min Chinese in this framework.
+One of the limitations in the studies and explanations on the previous studies is that usually only monophthongs are included in the inventory, disregarding diphthongs. There are a few cross-language studies of diphthongs. Lindau, Norlin and Svantesson (1990) compared the diphthongs /ai au/ in Arabic, Hausa, Chinese and English, and they found that the transcriptionally equivalent diphthongs can have different timing of the diphthongal transitions in different languages. Mayr and Davies (2011) demonstrated that there are differences in the spectral dynamics of diphthongs even between closely related dialects (Northern and Southern Welsh). There is also a study which aims to incorporate diphthong into dispersion theory (Peterson 2015) base solely on English. These studies are sporadic and has not constitute a synergy in unveiling the nature of diphthong. On the other hand, since Hu (2013), he and colleagues investigated monophthongs and diphthongs extensively in Chinese dialects (see the review in Hu 2023 and references therein). An emerging typological trend is that rising diphthongs are more likely to have two targets, while falling diphthongs tend to be more dynamic with only one single unit. The present study will approach two varieties of Southern Min Chinese in this framework.
 
 <!-- - Becker-Kristal, 2010 -->
 <!--   * "Becker-Kristal (2010) conducted a meta-analysis of F1 and F2 means from over 300 languages and tested several predictions of dispersion. A reliable relationship was observed between the number of vowels and vowel space area" -->
@@ -105,7 +105,7 @@ For both monophthongs and diphthongs, F1 and F2 at eleven equidistant points dur
 
 # Results
 
-The following sections present the results of monophthongs (3.1) and diphthongs (3.2). The results focus on the spectral properties of monophthongs and diphthongs. The reason is that spectral properties best reveals the patterns in Xiamen and Cangnan Min. As for temporal organization of diphthongs, considerable individual differences were found within each variety, and a detailed discussion requires a dedicated study. Due to space limitations, more figures, including those showing formant trajectories, can be accessed in the GitHub repository for this study.
+The following sections present the results of monophthongs (3.1) and diphthongs (3.2). The results focus on the spectral properties of monophthongs and diphthongs. The reason is that spectral properties best reveals the patterns in Xiamen and Cangnan Min. As for temporal organization of diphthongs, considerable individual differences were found within each variety, and a detailed discussion requires a dedicated study. Due to space limitations, more figures, including those showing formant trajectories, can be accessed in the GitHub repository (https://github.com/ge-chunyu/Min-vowels) for this study.
 
 ## Monophthongs in Xiamen and Cangnan Min
 
@@ -185,7 +185,7 @@ A more convincing explanation is that the coarticulatory difference between Xiam
 
 # Conclusions
 
-This study investigated the monophthongs and diphthongs in Xiamen and Cangnan Southern Min Chinese using acoustic data, and there are a few highlight findings .
+This study investigated the monophthongs and diphthongs in Xiamen and Cangnan Southern Min Chinese using acoustic data, and there are some noteworthy findings. For Xiamen Min, this study observed that its vowel system has rearranged from a unbalanced system with a four-way contrast in back vowels only to a more symmetric system with three-way contrasts in both front and back vowels. This transition is intermediated mainly by the change of the vowel /o/, which changed from a back vowel to a mid vowel. An interesting finding is that the /o/ vowel in the diphthong /io/ aligns well with the monophthong /o/ in that its vowel quality also changed. This is good evidence that the offset /o/ in the rising diphthong /io/ shares the target of its monophthong counterpart. On the other hand, the seemingly unbalanced vowel system in Cangnan Min is not remedied by sound change, but by diphthongs. The front vowels have only three levels, and the mid-low level is missing as compared to the back vowels. However, when diphthongs are taken into account, the offset of the diphthong /ie/ fills in this gap. This accounts for the absence of /ie/ in Xiamen Min. It corroborates the previous findings of Hu (2023) that falling diphthongs can complement the vowel system when only monophthongs are taken into consideration, and it also contributes to the typological understanding that the unbalanced vowel systems can be complemented by rising diphthongs as well as falling diphthongs. The present study demonstrates two different approaches languages employ to remedy the imbalance in vowel systems and it motivates further studies in languages with different vowel systems, both balanced and unbalanced. For example, another closely related variety to Xiamen and Cangnan, Quanzhou Min also has an unbalanced vowel system similar to Cangnan (Lin 2008), what strategy is used in Quanzhou to remedy this imbalance? These are the topics for future studies.
 
 # Reference
 
@@ -225,15 +225,15 @@ Xu, A., van Niekerk, D. R., Gerazov, B., Krug, P. K., Prom-on, S., Birkholz, P.,
 Xu, Y. (2025). Syllable as a Synchronization Mechanism That Makes Human Speech Possible. *Brain Sciences*, 15(1), 33. https://doi.org/10.3390/brainsci15010033\
 Yue, Y., & Hu, F. (2018). Vowels and Diphthongs in Hangzhou Wu Chinese Dialect. *Interspeech* 2018, 207–211. https://doi.org/10.21437/Interspeech.2018-1225\
 Zellou, G. (2022). *Coarticulation in Phonology*. Cambridge University Press. https://doi.org/10.1017/9781009082488\
-周长楫, & 欧阳忆耘. (1998). 厦门方言研究. 福建人民出版社. https://book.douban.com/subject/30229980/\
-張振興. (1989). 台灣閩南方言紀略. 文史哲出版社. https://book.douban.com/subject/5371229/\
 曹逢甫. (2013). 台灣閩南語共同腔的浮現：語言學與社會語言學的探討. (14:2), 457–484.\
-温端政. (1991). 苍南方言志. 语文出版社.\
-羅常培. (1956). 廈門音系. 科學出版社.\
+陳淑娟. (2010). 台灣閩南語新興的語音變異－－台北市、彰化市及台南市元音系統與陽入原調的調查分析. 語言暨語言學, (11:2), 425–468.\
+陳淑娟. (2023). 臺北市閩南語的二次方言變異－社會方言學的調查分析. 清華學報, 53(4). https://doi.org/10.6503/THJCS.202312_53(4).0005\
 胡方. (2013). 降峰双元音是一个动态目标而升峰双元音是两个目标:宁波方言双元音的声学与发音运动学特性—中国知网. 语言研究集刊, (1). http://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&filename=YJJK201301002&dbname=CCJDLAST2\
 胡方. (2023). 语音单位与元音复杂性. 中国语文, (3), 329–342.\
-陳淑娟. (2010). 台灣閩南語新興的語音變異－－台北市、彰化市及台南市元音系統與陽入原調的調查分析. 語言暨語言學, (11:2), 425–468.\
-陳淑娟. (2023). 臺北市閩南語的二次方言變異－社會方言學的調查分析. 清華學報, 53(4). https://doi.org/10.6503/THJCS.202312_53(4).0005
+羅常培. (1956). 廈門音系. 科學出版社.\
+温端政. (1991). 苍南方言志. 语文出版社.\
+張振興. (1989). 台灣閩南方言紀略. 文史哲出版社. https://book.douban.com/subject/5371229/\
+周长楫, & 欧阳忆耘. (1998). 厦门方言研究. 福建人民出版社. https://book.douban.com/subject/30229980/
 
 <!-- ## Vowel inventories of Xiamen and Cangnan Min -->
 <!---->
